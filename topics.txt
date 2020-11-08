@@ -1,0 +1,46 @@
+Spark
+Game frameworks
+Coding standard
+Object Oriented Programming
+Workspace Design (for software development)
+GPU usage
+Class-responsibility-collaboration card (CRC Cards)
+Visual Management
+Collective code ownership
+XP (eXtreme Programming)
+CSS frameworks
+Preprocessors
+GraphQL
+Server-less
+Kanban (development)
+Whole team
+REST
+Scrum
+Lean soft. Dev. principles (Eliminate waste, Amplify learning, ...)
+Blockchain
+Agile
+Quantum computing
+Artificial intelligence
+Small releases
+Release planning
+Static website generators
+Virtual reality
+Functional Programming
+Continuous Integration (CI)
+Remote Work
+Continuous delivery
+GitHub
+Big data
+Pair Programming
+Continuous Learning
+Test Driven Development (TDD)
+IoT
+Planning game
+Sustainable pace
+NIS Directive
+Cloud IDEs
+Code Review
+Cybersecurity
+Mob Programming
+JavaScript MV frameworks
+SVG on Canvas
